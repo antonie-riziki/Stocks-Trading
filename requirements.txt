@@ -1,0 +1,16 @@
+streamlit==1.37.0
+streamlit-chat==0.1.1
+streamlit-folium==0.13.0
+streamlit-lottie==0.0.5
+streamlit-navigation-bar==3.3.0
+streamlit-option-menu==0.3.6
+pandas==2.1.4
+seaborn==0.13.2
+numpy==1.25.1
+matplotlib==3.9.0
+matplotlib-inline==0.1.6
+plotly==5.18.0
+prophet==1.1.5
+folium==0.14.0
+scikit-image==0.23.2
+scikit-learn==1.4.2
